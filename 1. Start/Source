@@ -1,0 +1,10 @@
+python venv is a virtual environment created which won't cause trouble for any other application.
+
+to open a virtual environment
+python -m venv "nome del virtual environment"
+
+poi si può scegliere di utilizzare quello locale o globale allora 
+ti apparira una windows clicca no, poi in basso nella ui blu cerca python, clicca
+e scegli il python da utilizzare.
+
+per runnare, si può cliccare esegui, oppure tasto destro esegui dal terminale con python.
